@@ -1,9 +1,9 @@
 # student-performance-analysis
 
-📌 Project Overview
+Project Overview
 Student Performance Analysis is a Machine Learning based project that evaluates and predicts students' academic performance based on various factors. This project aims to provide insights that can help educators and students improve learning strategies and academic outcomes.This project is developed as part of an internship submission.
 
-📊 Features
+Features
 - Data preprocessing (handling categorical and numerical features)
 - Machine learning model comparison:
   - Linear Regression
@@ -15,11 +15,11 @@ Student Performance Analysis is a Machine Learning based project that evaluates 
 - Performance evaluation using MAE, RMSE, and R² score
 - Data visualization of model performance and predictions
 
-🛠 Technologies Used
+Technologies Used
 - **Programming Language**: Python
 - **Libraries**: pandas, numpy, matplotlib, seaborn, scikit-learn
 
-📂 Dataset
+Dataset
 The dataset `student_data.csv` includes the following columns:
 - **math score**
 - **reading score**
@@ -32,21 +32,21 @@ The dataset `student_data.csv` includes the following columns:
 
 A new column **Performance** is created as the average of math, reading, and writing scores.
 
-📈 Model Evaluation
+Model Evaluation
 After training the models, the results are compared using:
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 - R² Score
 
-📊 Visualizations
+Visualizations
 - Bar charts for MAE, RMSE, and R² scores of all models
 - Scatter plot for Actual vs. Predicted values
 - Regression plot using Seaborn
 
-🚀 Results
+Results
 The best-performing model (highest R² score) is used for final predictions.
 
-👤 Author
+Author
 Sivadharshini Saminathan
 GitHub - https://github.com/Sivadharshini04
 LinkedIn - www.linkedin.com/in/sivadharshini-s-31128b258
