@@ -2,7 +2,7 @@
 
 Project Overview
 
-*Student Performance Analysis* is a machine learning-based project that evaluates and predicts students' academic performance based on various factors. This project aims to provide insights that can help educators and students improve learning strategies and academic outcomes. It was developed as part of an internship submission.
+Student Performance Analysis is a machine learning-based project that evaluates and predicts students' academic performance based on various factors. This project aims to provide insights that can help educators and students improve learning strategies and academic outcomes. It was developed as part of an internship submission.
 
 Features
 
@@ -20,8 +20,8 @@ Features
 
 Technologies Used
 
-* *Programming Language*: Python
-* *Libraries*: pandas, numpy, matplotlib, seaborn, scikit-learn
+* Programming Language: Python
+* Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn
 
 Dataset
 
